@@ -15,6 +15,6 @@
     "bluebird": "^3.7.2",
     "couch-update-views": "^1.0.9",
     "request": "^2.88.2",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
